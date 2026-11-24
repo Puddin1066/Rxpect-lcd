@@ -1,0 +1,1 @@
+Read-only versioned product descriptions, commit identifiers and intended use. No patient data. Record gaps as local change requests; never write to app or portal repositories.
