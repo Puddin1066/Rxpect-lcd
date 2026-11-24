@@ -1,0 +1,54 @@
+{
+  "status": "incomplete",
+  "papers": [
+    {
+      "title": "Carvalho 2016",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27755279/",
+      "local_file": null,
+      "sha256": null,
+      "license_verified": false
+    },
+    {
+      "title": "Kleine-Borgmann 2019",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31479068/",
+      "local_file": null,
+      "sha256": null,
+      "license_verified": false
+    },
+    {
+      "title": "Kleine-Borgmann follow-up",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35947884/",
+      "local_file": null,
+      "sha256": null,
+      "license_verified": false
+    },
+    {
+      "title": "Carvalho follow-up",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33259459/",
+      "local_file": null,
+      "sha256": null,
+      "license_verified": false
+    },
+    {
+      "title": "Ashar 2024",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11391328/",
+      "local_file": null,
+      "sha256": null,
+      "license_verified": false
+    },
+    {
+      "title": "Flavio-Reis 2025",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11881878/",
+      "local_file": null,
+      "sha256": null,
+      "license_verified": false
+    },
+    {
+      "title": "Borg 2025",
+      "url": "https://www.nature.com/articles/s41598-025-09415-y",
+      "local_file": null,
+      "sha256": null,
+      "license_verified": false
+    }
+  ]
+}
