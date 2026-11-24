@@ -1,0 +1,4 @@
+# RxPect LCD development
+Independent regulatory repository. Canonical workstream for LCD development; migrated historical drafts in 09_submission are not final. Start with requirements.json; work on blocked gates in order, update only with verified evidence. Use Python standard library locally: python scripts/validate.py. No hosted infrastructure.
+Sequence: verify policy and coverage landscape; evidence review and lawful full-text attachments; benefit category/FDA/coding; product snapshot; proposed policy; correspondence reconciliation; assemble and independently review signed submission. Do not send without explicit approval.
+Source: Puddin1066/placeborx-agentic-ops runtime/commercial/lcd-development, copied without modifying source. All prior claims including submission address must be reverified against current primary sources.
