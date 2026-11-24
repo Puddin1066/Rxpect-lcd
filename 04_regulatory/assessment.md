@@ -1,0 +1,10 @@
+# Benefit category and device assessment — 2026-11-24
+Draft, not legal determination.
+CMS requires statutory category and rationale [1]. Candidate physician services SSA 1861(s)(1); outpatient PT 1861(s)(2)(D) only when independently within scope and therapy requirements. The service requested is clinician evaluation and management of adjunctive OLP, not a new benefit for inert tablets. Neither diagnosis nor a CPT code establishes medical necessity. CMS acupuncture analysis confirms benefit category and absence of exclusions are separate gates [2].
+FDA assesses intended use function by function [3–5]. A disease-treatment app may meet device definition. Patient-facing therapy guidance cannot automatically rely on clinician CDS exclusion. Distinguish nondevice software, enforcement discretion, and regulated device; none is equivalent to FDA clearance. Actual intended use, labeling, feature inventory, classification, predicate and marketing basis not verified. RTM device eligibility must be separately assessed; nondevice classification may conflict with device supply billing. Obtain written regulatory review and contractor clarification before any claim.
+[1] https://www.cms.gov/medicare-coverage-database/view/article.aspx?Cntrctr=275&articleId=56198 (current effective 2026-04-01)
+[2] https://www.cms.gov/medicare-coverage-database/view/ncacal-decision-memo.aspx?NCAId=295
+[3] https://www.fda.gov/medical-devices/digital-health-center-excellence/step-1-software-function-intended-medical-purpose
+[4] https://www.fda.gov/regulatory-information/search-fda-guidance-documents/clinical-decision-support-software (Jan 2026)
+[5] https://www.fda.gov/medical-devices/digital-health-center-excellence/device-software-functions-including-mobile-medical-applications
+Sources accessed 2026-11-24.
