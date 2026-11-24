@@ -1,0 +1,113 @@
+{
+  "version": 1,
+  "requirements": [
+    {
+      "id": "P01",
+      "requirement": "Current contractor requirements and coverage landscape",
+      "artifact": "01_policy/assessment.md",
+      "status": "blocked",
+      "mandatory": true,
+      "evidence": [],
+      "reviewer": null
+    },
+    {
+      "id": "P02",
+      "requirement": "Comparable coverage precedent appraisal",
+      "artifact": "02_precedents/assessment.md",
+      "status": "blocked",
+      "mandatory": false,
+      "evidence": [],
+      "reviewer": null
+    },
+    {
+      "id": "E01",
+      "requirement": "Reproducible systematic evidence review",
+      "artifact": "03_clinical_evidence/review.md",
+      "status": "blocked",
+      "mandatory": true,
+      "evidence": [],
+      "reviewer": null
+    },
+    {
+      "id": "E02",
+      "requirement": "Lawful full text for every cited supporting publication",
+      "artifact": "03_clinical_evidence/manifest.json",
+      "status": "blocked",
+      "mandatory": true,
+      "evidence": [],
+      "reviewer": null
+    },
+    {
+      "id": "R01",
+      "requirement": "Benefit category and FDA status reviewed",
+      "artifact": "04_regulatory/assessment.md",
+      "status": "blocked",
+      "mandatory": true,
+      "evidence": [],
+      "reviewer": null
+    },
+    {
+      "id": "C01",
+      "requirement": "Current CPT eligibility and economics",
+      "artifact": "05_coding_economics/assessment.md",
+      "status": "blocked",
+      "mandatory": true,
+      "evidence": [],
+      "reviewer": null
+    },
+    {
+      "id": "W01",
+      "requirement": "Clinician reviewed protocol",
+      "artifact": "06_clinical_protocol/protocol.md",
+      "status": "blocked",
+      "mandatory": true,
+      "evidence": [],
+      "reviewer": null
+    },
+    {
+      "id": "M01",
+      "requirement": "Original contractor correspondence and objections",
+      "artifact": "07_correspondence/assessment.md",
+      "status": "blocked",
+      "mandatory": true,
+      "evidence": [],
+      "reviewer": null
+    },
+    {
+      "id": "L01",
+      "requirement": "Reviewed proposed coverage language",
+      "artifact": "08_proposed_lcd/policy.md",
+      "status": "blocked",
+      "mandatory": true,
+      "evidence": [],
+      "reviewer": null
+    },
+    {
+      "id": "I01",
+      "requirement": "Versioned actual product specifications",
+      "artifact": "product_interfaces/snapshot.md",
+      "status": "blocked",
+      "mandatory": true,
+      "evidence": [],
+      "reviewer": null
+    },
+    {
+      "id": "S01",
+      "requirement": "Signed complete request and attachments",
+      "artifact": "09_submission/final_manifest.json",
+      "status": "blocked",
+      "mandatory": true,
+      "evidence": [],
+      "reviewer": null
+    },
+    {
+      "id": "Q01",
+      "requirement": "Independent review and explicit release approval",
+      "artifact": "10_quality_assurance/signoff.md",
+      "status": "blocked",
+      "mandatory": true,
+      "evidence": [],
+      "reviewer": null
+    }
+  ]
+}
