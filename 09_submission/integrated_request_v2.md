@@ -1,0 +1,13 @@
+# Draft formal request — Wellpoint Federal Jurisdiction K
+Requestor: [legal entity, authorized signatory, jurisdiction business nexus to confirm].
+Request a new LCD addressing reasonable and necessary clinician-directed remotely monitored fully disclosed OLP adjunctive treatment of nonspecific CLBP, with qualifying services reported using existing RTM codes. No separate inert tablet payment or standalone OLP determination requested. Subject to national policy and confirmation of appropriate new-LCD route.
+Benefit category rationale: physician services under SSA 1861(s)(1) is proposed for clinician management; outpatient PT under 1861(s)(2)(D) only if separately within covered therapy scope. Device supply eligibility and statutory basis require counsel review; see 04_regulatory/assessment.md.
+Clinical rationale: three-week OLP RCTs demonstrate potential short-term subjective benefit [1,2]; evidence is heterogeneous including negative older-adult trial (https://pmc.ncbi.nlm.nih.gov/articles/PMC7781721/). The proposed protocol restricts initial duration, uses validated outcomes and stops ineffective treatment. Day-11 interim visit in Carvalho is a concrete precedent for clinician contact during treatment, not evidence that RTM itself adds benefit. Remote data must support a documented clinical decision, not passive collection or billing convenience. See 06_clinical_protocol/protocol.md and 03_clinical_evidence/medicare_applicability.md.
+Requested language: see 08_proposed_lcd/policy.md; consider coverage only where individualized clinical necessity for both the intervention and monitoring is documented and all independently applicable device and billing rules are satisfied.
+Completeness: under current A56198 (effective 2026-04-01, Wellpoint Federal; RI Part B 14412) and CMS process [3,4], attach complete peer-reviewed publications, benefit category rationale, coverage wording, clinical usefulness and method description. The current package lacks full publications, product snapshot, independent review, signatory, coverage landscape and verified correspondence. Do not submit as complete.
+[1] https://pmc.ncbi.nlm.nih.gov/articles/PMC5113234/
+[2] https://pubmed.ncbi.nlm.nih.gov/31479068/
+[3] https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=56198
+[4] https://www.cms.gov/cms-guide-medical-technology-companies-and-other-interested-parties/coverage/local-coverage-determination-process-and-timeline
+[5] https://www.hhs.gov/guidance/sites/default/files/hhs-guidance-documents/CMS/mm14250_new.pdf
+Sources retrieved 2026-11-25. Draft only, no submission authorization.
