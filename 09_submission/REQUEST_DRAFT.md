@@ -1,14 +1,20 @@
 # Jurisdiction K — new LCD request development dossier
-2026-11-24 | Draft for review; NOT submitted or billing authorization.
+2026-11-28 | Draft for review; NOT submitted or billing authorization.
 
 ## Proposed request
-To Wellpoint Federal Medical Policy Unit: RxPect requests consideration of a new LCD for clinician-directed, fully disclosed open-label placebo (OLP) as an adjunct to chronic low-back pain (CLBP) management and associated medically necessary musculoskeletal remote therapeutic monitoring (RTM). Request an informal educational meeting before formal submission to confirm benefit category, evidence expectations and whether an existing LCD requires reconsideration instead. Do not represent this draft as a complete request.
+To Wellpoint Federal Medical Policy Unit: RxPect requests a determination on Medicare Part B coverage for medically necessary musculoskeletal RTM furnished under an outpatient PT plan of care for patients with chronic nonspecific low back pain using a fully disclosed investigational OLP adjunct. The OLP intervention is separately funded. The request covers only qualifying monitoring services.
+
+Assuming an eligible device, eligible practitioner, and all code-level requirements, does monitoring adherence or response to investigational OLP itself preclude (1) musculoskeletal device supply under 98985 or 98977 or (2) treatment management under 98979, 98980, or 98981? Ask for the controlling provision for each and whether the issue is a national restriction, a code requirement, or evidence of medical necessity. Determine whether existing policy resolves the question before pursuing a new LCD or reconsideration.
 
 ## Benefit category hypothesis
 Social Security Act §1861(s)(1) physician services and, where independently eligible, §1861(s)(2)(D) outpatient physical therapy services; §1862(a)(1)(A) reasonable and necessary requirement. RTM services must independently satisfy applicable Medicare payment, practitioner, device and coding requirements. Legal review required: an LCD cannot create a statutory benefit or modify CPT rules. No separate payment for inert tablets is requested. Device classification and lawful marketing status remain unresolved.
 
 ## Proposed coverage language (negotiation draft)
-Consider clinician-directed, fully disclosed OLP adjunctive care for adults with nonspecific CLBP lasting at least 12 weeks, after appropriate evaluation for red flags and discussion of evidence-based treatment options. No deception, no substitution for indicated care. Document baseline pain and function, patient consent, treatment rationale and individualized goals. Reassess after an initial 4-week course; discontinue or reassess for lack of meaningful benefit or adverse consequences. Associated MSK RTM may be covered only when separately medically necessary and all applicable national coding, device, data, time and communication requirements are satisfied. No claim that OLP alone qualifies as RTM. Proposed duration and eligibility are hypotheses requiring evidence and clinical review, not established policy.
+See the [proposed LCD language](../08_proposed_lcd/policy.md). Eligibility turns on the clinical need for monitoring, how the therapist uses the data, and applicable national requirements. Requestor identity, jurisdiction nexus, and benefit category remain subject to verification.
+
+## Evidence needed for monitoring
+
+Compare usual PT plus the same disclosed OLP adjunct in both groups, with clinician-directed RTM added in one group. Measure predefined changes to care attributable to monitoring, patient function using a validated measure, safety, burdens, and applicability to Medicare beneficiaries. Use OLP studies to establish clinical context and limitations. They do not establish the incremental utility of RTM.
 
 ## Evidence register — full texts must be assembled and appraised
 - Carvalho et al. 2016 randomized CLBP trial: https://pubmed.ncbi.nlm.nih.gov/27755279/ — pain and self-reported disability signal; short follow-up, unblinded comparison.
@@ -22,7 +28,7 @@ These are candidate sources, not a completed systematic review. Obtain lawful fu
 Clinician evaluates CLBP, identifies appropriate standard care, obtains explicit informed consent to OLP, documents plan and baseline PROMs (pain interference, ODI or equivalent), educates patient, reviews adherence and response, adjusts care, and documents discontinuation criteria. RTM data capture and clinician management must independently meet current CMS/CPT requirements. Verify device intended use and FDA status; do not assume exemption or clearance. No billing until independently validated.
 
 ## Contractor objection register
-Prior conversation reports 2026-11-23 Wellpoint provider education response unfavorable to OLP coverage and stating FDA approval requirement. Obtain original correspondence and archive verbatim with provenance; distinguish informal guidance from binding policy. Ask whether exclusion is categorical or evidence-based, identify controlling authority, clarify device authorization distinctions and appropriate LCD channel.
+The November inquiry was routed to provider education without opening formal LCD review. The response raised objections about the placebo protocol and FDA status. Applicability to device supply and treatment management in the defined use case needs controlling citations. CMS describes a device-definition requirement in its published RTM guidance. Confirm the specific software's applicable FDA marketing pathway and obtain the contractor's authority for any additional requirement. Keep correspondence and provenance in restricted records.
 
 ## Health equity
 Assess digital access, disability accommodations, language, older adult usability, rural access and differential benefit; do not assert disparities reduction without evidence.
@@ -36,7 +42,7 @@ Assess digital access, disability accommodations, language, older adult usabilit
 - [ ] Complete reproducible evidence review and attach lawful full-text publications (mandatory).
 - [ ] Clinician review of proposed coverage language, protocol, risks and thresholds.
 - [ ] Assess existing Medicare population evidence and incremental monitoring evidence; specify gaps and trial plan.
-- [ ] Obtain original contractor email and reconcile objections.
+- [ ] Resolve the contractor objections using controlling sources and document the disposition.
 - [ ] Finalize signed request, attachment manifest, versioned dossier and user approval before submission.
 ## Acceptance
 Submission-ready only when all mandatory gates independently checked. Completeness review generally within 60 calendar days is not a coverage decision. No submission, outreach, or reimbursement claims authorized by this draft.
